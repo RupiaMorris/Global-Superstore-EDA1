@@ -26,8 +26,4 @@ This project analyzes a large global retail dataset with 51K+ transactions acros
 - Promote cost-effective shipping methods.
 
 ---
-
-## 💼 Portfolio Quality
-This project demonstrates real-world data wrangling, analysis, and communication of insights — ideal for data analyst or junior data scientist job applications.
-
 \
